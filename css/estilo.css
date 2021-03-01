@@ -1,0 +1,66 @@
+h1{
+	color: #0000ff;
+	text-align: center;
+	font-size: 45px;
+	font-weight: bolder;
+}
+table{
+	border-collapse: separate;
+	background-color: #F0F8FF;
+}
+.cuerpo{
+	padding-top: 35px;
+	padding-left: 7%;
+	padding-right: 20%;
+	font-size: 20px;
+}
+.encabezado {
+	padding-top: 4%;
+	text-align: center;
+}
+td,p{
+	font-size: 22px;
+	font-weight: bolder;
+}
+ol{
+	padding-bottom: 60px;
+}
+.trailer{
+	padding-left: 29%;
+	padding-right: 33%;
+}
+h2{
+	padding-top: 55px;
+	text-align: center;
+	font-weight: bolder;
+}
+h4,li{
+	font-weight: bolder;
+}
+.cuerpo1{
+	padding-bottom: 5%;
+}
+.cuerpo2{
+	padding-bottom: 4%;
+}
+.cuerpoFinal{
+	padding-bottom: 4%;
+}
+img{
+	padding-top: 2%;
+	padding-left: 15%;
+	width: 400px;
+	padding-bottom: 2%;
+
+}
+.imagen{
+	width: 1000px;
+}
+.retornoPagina{
+	text-align: center;
+	font-size: 30px;
+	padding-bottom: 12%;
+}
+.body{
+	color: #7FFFD4;
+}
